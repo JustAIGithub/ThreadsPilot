@@ -1,4 +1,4 @@
-# Best Threads Accounts toFollow
+# Best Threads Accounts to Follow
 
 Are you having trouble following the best Threads accounts for your interest?
 

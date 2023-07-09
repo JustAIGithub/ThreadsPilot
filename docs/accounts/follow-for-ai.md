@@ -7,6 +7,15 @@ Sebastien is a Sr. Principal Research Manager in the <a target="_blank" rel="noo
 
 He has also served as a program committee member for top machine learning and optimization conferences, and he has been invited to speak at various international conferences and workshops.
 
+## Yann LeCun [@yannlecun](https://www.threads.net/@yannlecun)
+![@yannlecun](https://upload.wikimedia.org/wikipedia/commons/2/22/Yann_LeCun_-_2018_%28cropped%29.jpg)
+
+[Yann LeCun‘s home page.](http://yann.lecun.com/)
+VP and Chief AI Scientist, Facebook
+Silver Professor of Computer Science, Data Science, Neural Science, and Electrical and Computer Engineering, New York University.
+ACM Turing Award Laureate, (sounds like I'm bragging, but a condition of accepting the award is to write this next to you name)
+Member, National Academy of Engineering
+
 ## Azeem Azhar [@azeem](https://www.threads.net/@azeem)
 ![@azeem](https://cdn.feather.blog/?src=https%3A%2F%2Fusenotioncms.com%2Fproxy%2Fblock%2F8e307606-8b52-467b-8bfa-f6ac616db296%252Fb29705aa-be35-4300-bbb9-a770b707b41b%252Fimage33.png&optimizer=image)
 

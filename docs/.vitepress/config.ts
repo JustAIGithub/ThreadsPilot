@@ -7,6 +7,15 @@ export default defineConfig({
 	description: 'Copilot For Threads & Best Threads Accounts or Tools To Follow.',
 
 	head: [
+		['script', {}, `
+		      var _hmt = _hmt || [];
+		      (function() {
+		        var hm = document.createElement("script");
+		        hm.src = "https://hm.baidu.com/hm.js?3b99b13e22e3c372f8df2781cea25502";
+		        var s = document.getElementsByTagName("script")[0]; 
+		        s.parentNode.insertBefore(hm, s);
+		      })();
+		`],
 		['link', { rel: 'icon', href: '/pilot.png' }], // 设置网站的 favicon
 		['meta', { name: 'canonical', content: 'https://threadspilot.com' }],
 		['meta', { name: 'description', content: 'Discover the best Threads accounts to follow or tools to use in different niches for top-notch content.' }], // 设置页面的描述
