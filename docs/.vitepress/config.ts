@@ -16,6 +16,14 @@ export default defineConfig({
 		        s.parentNode.insertBefore(hm, s);
 		      })();
 		`],
+		// Google Analytics
+		['script', { async: 'true', src: 'https://www.googletagmanager.com/gtag/js?id=G-BSZ60ENYSC' }],
+		['script', {}, `
+		    window.dataLayer = window.dataLayer || [];
+		    function gtag(){dataLayer.push(arguments);}
+		    gtag('js', new Date());
+		    gtag('config', 'G-BSZ60ENYSC');
+		`],
 		['link', { rel: 'icon', href: '/pilot.png' }], // 设置网站的 favicon
 		['meta', { name: 'canonical', content: 'https://threadspilot.com' }],
 		['meta', { name: 'description', content: 'Discover the best Threads accounts to follow or tools to use in different niches for top-notch content.' }], // 设置页面的描述
